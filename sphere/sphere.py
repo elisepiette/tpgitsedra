@@ -3,9 +3,8 @@ import math, pickle
 class Sphere(object):
 
     def __init__(self, radius):
-        # *** STEP 1 ***
-        # uncomment the following line
-        #self.radius = radius
+        *** STEP 1 ***
+        self.radius = radius
         pass
 
     # *** STEP 2 ***
